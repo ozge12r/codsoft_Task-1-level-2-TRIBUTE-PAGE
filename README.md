@@ -1,5 +1,6 @@
 # codsoft_Task-1-level-2-TRIBUTE-PAGE
 TRIBUTE PAGE
 
-![abdul sattar edhi](https://github.com/ozge12r/codsoft_Task-1-level-2-TRIBUTE-PAGE/assets/92094258/542ff0d1-3d19-4e96-8818-160a94e0a068)
+![image](https://github.com/ozge12r/codsoft_Task-1-level-2-TRIBUTE-PAGE/assets/92094258/2b9f0c6e-6342-46c6-9657-746c30ccd34e)
+
 
